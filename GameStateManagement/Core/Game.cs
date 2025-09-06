@@ -29,8 +29,8 @@ namespace GameStateManagement
         int BufferWidth = 320;
         int BufferHeight = 480;
 #else
-        int BufferWidth = 272;
-        int BufferHeight = 480;
+        int BufferWidth = 750;
+        int BufferHeight = 750;
 #endif
 
 
